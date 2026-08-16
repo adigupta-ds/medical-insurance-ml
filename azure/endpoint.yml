@@ -1,0 +1,9 @@
+$schema: https://azuremlschemas.azureedge.net/latest/managedOnlineEndpoint.schema.json
+
+name: insurance-charges-endpoint
+
+description: >
+  Online endpoint for Medical Insurance Charges
+  prediction using Decision Tree Regression.
+
+auth_mode: key
